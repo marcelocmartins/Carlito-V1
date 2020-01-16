@@ -1,0 +1,1 @@
+[20628:7188:1013/195547.281:INFO:CONSOLE(2)] "Uncaught (in promise) NotAllowedError: play() failed because the user didn't interact with the document first. https://goo.gl/xX8pDD", source: https://web.whatsapp.com/app2.30a4a7e9a71264d1c934.js (2)
